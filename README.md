@@ -1,2 +1,1 @@
-# lendi
-friendly
+# lenndi
